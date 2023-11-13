@@ -1,0 +1,12 @@
+color = blue
+thickness = 2.5
+title_x = Number of Transmissions 
+title_y = Congestion Window Size
+0 1
+1 2
+2 4
+3 5
+4 1
+5 2
+6 4
+7 5
