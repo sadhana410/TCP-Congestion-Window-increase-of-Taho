@@ -1,5 +1,5 @@
 # TCP-Congestion-Window-increase-of-Taho
-Simulation of TCP Congestion Window increase of Tahoe using socket  programming in C.
+Simulation of TCP Congestion Window increase of Taho using socket  programming in C.
 
 Download the file input_data.txt and have it in the same location as your server
 
