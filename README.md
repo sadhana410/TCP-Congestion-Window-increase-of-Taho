@@ -17,8 +17,10 @@ Server side:
 	You have 30 packets in total, so you have to give input 30 times as 0 or 1
 
 Client side:
+
 	The packets which reach the client successfully are printed here
 
 
 For the graph:
+
 	Use xgraph to run the graph "data.xg"
